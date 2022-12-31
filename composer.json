@@ -1,0 +1,21 @@
+{
+  "name": "green-spot/pachira-idiorm",
+  "description": "Idiorm for Pachira",
+  "keywords": [],
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://github.com/green-spot/pachira-idiorm",
+  "authors": [
+    {
+      "name": "green spot",
+      "email": "in.green.spot@gmail.com"
+    }
+  ],
+  "require": {
+    "green-spot/pachira": "^0.1",
+    "j4mie/idiorm": "^1.5"
+  },
+  "autoload": {
+    "files": ["pachira-idiorm.php"]
+  }
+}
